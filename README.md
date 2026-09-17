@@ -1,14 +1,18 @@
-# Cyber-XMR-Tools 🛡️
-ادواتي لفحص الحماية - بواسطة cyberxmr
+# 🛡️ Cyber-XMR Tools
+### Made in Sanaa, Yemen 🇾🇪
+### By: targalmary381-create
 
-## 🔍 ادوات الفحص القانوني
-1. فحص واتساب - الأجهزة المرتبطة
-2. فحص العمليات - ps aux
-3. فحص الشبكة - netstat -tunap
-4. فحص التطبيقات - pm list packages
+Tools for Cyber Security beginners using Termux.
 
-## 🚀 الاستخدام
-يستخدم عبر Termux للحماية الشخصية فقط
+## 📦 Tools List
+1.  **check.sh** - System Scanner
+2.  **ip-tracker.sh** - IP Tracker
 
-## 👨‍💻 المطور
-Hackerxmr - خبير امن سيبراني
+## 🚀 How to use
+git clone https://github.com/targalmary381-create/cyber-xmr-tools.git
+cd cyber-xmr-tools
+bash check.sh
+bash ip-tracker.sh
+
+## ⚠️ Disclaimer
+These tools show YOUR OWN device info only.
